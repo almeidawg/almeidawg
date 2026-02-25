@@ -1,24 +1,26 @@
-# William Almeida — AI-Augmented Full Stack Developer
+# William Almeida — Full Stack Developer & AI Systems Builder
 
-**CEO do Grupo WG Almeida** | 14 anos de experiência empresarial | Prompt Engineer | Performance Engineer
+**CEO Grupo WG Almeida · Fundador WG.build tech · 14 anos de experiência empresarial**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-almeidawg-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/almeidawg)
-[![Website](https://img.shields.io/badge/Website-wgalmeida.com.br-green?style=flat&logo=google-chrome)](https://wgalmeida.com.br)
+[![Website](https://img.shields.io/badge/Site-wgalmeida.com.br-22c55e?style=flat&logo=google-chrome)](https://wgalmeida.com.br)
+[![Email](https://img.shields.io/badge/Email-william@wgalmeida.com.br-EA4335?style=flat&logo=gmail)](mailto:william@wgalmeida.com.br)
 
 ---
 
 ## Sobre mim
 
-Não uso IA como brinquedo — uso como ferramenta de produção industrial.
+Não entrego código. Entrego produto em produção.
 
-Com 14 anos de experiência real em gestão empresarial, construção civil e tecnologia, desenvolvo sistemas completos e coloco em produção usando IA como co-piloto. Quando dirijo a IA, ela não produz código genérico — produz solução de negócio com profundidade de quem conhece o problema por dentro.
+Com 14 anos de experiência real em gestão empresarial, construção civil e tecnologia, construo sistemas completos — do zero até o ar — usando arquitetura moderna e automação inteligente como motor de escala. Cada linha de código resolve um problema de negócio que eu conheço por dentro.
+
+Fundei a **WG.build tech** para transformar essa capacidade em serviço: sistemas web, plataformas SaaS, automações, e-commerces, games e projetos transmídia — tudo desenvolvido com velocidade e profundidade de quem entende o problema antes de escrever a primeira linha.
 
 ---
 
 ## Resultados Auditados
 
 ### Site Institucional — wgalmeida.com.br
-**Google Lighthouse (auditado)**
 
 | Métrica | Desktop | Mobile |
 |---|---|---|
@@ -29,9 +31,8 @@ Com 14 anos de experiência real em gestão empresarial, construção civil e te
 
 **Core Web Vitals (desktop):** FCP 0.4s · LCP 0.8s · TBT 10ms · CLS 0.047
 
-> Mobile acima de 90 em Performance é raro. SEO 100/100 nos dois dispositivos é top 1% do Brasil.
+### CRM/ERP — WG Easy
 
-### CRM/ERP — WGeasy
 - 285+ clientes ativos em produção
 - R$ 10M+ em operações gerenciadas
 - 12 anos de dados financeiros migrados
@@ -42,16 +43,41 @@ Com 14 anos de experiência real em gestão empresarial, construção civil e te
 ## Stack Técnica
 
 **Frontend**
-`React 18` `Next.js 14` `TypeScript` `Tailwind CSS`
+`React 18` `Next.js 14` `TypeScript` `Tailwind CSS` `Vite`
 
 **Backend & Database**
-`Supabase` `PostgreSQL` `Node.js` `REST APIs`
+`Supabase` `PostgreSQL` `Node.js` `Express.js` `REST APIs`
 
-**IA & Automação**
-`Prompt Engineering` `Claude (Anthropic)` `GPT-4` `AI Workflow Design`
+**Automação & IA**
+`AI Workflow Design` `Prompt Engineering Avançado` `Sistemas Multi-modo` `Pipelines de IA para Produção`
 
 **Infra & DevOps**
 `Vercel` `Turborepo` `Git` `CI/CD`
+
+**Especialidades**
+`Web Performance Engineering` `SEO Técnico` `Game Development (Canvas 2D)` `E-commerce` `EdTech` `Transmídia`
+
+---
+
+## Ecossistema WG.build tech — 15 Projetos
+
+| Projeto | Tipo | Status |
+|---|---|---|
+| **WG Easy** | ERP Corporativo com automação embarcada | 🟢 Em Desenvolvimento Ativo |
+| **Site WG Almeida** | Site Institucional Premium | 🟢 Em Produção |
+| **Easy Trader** | Automação de Trading Quantitativo | 🔵 Em Desenvolvimento |
+| **Gustavo Keys** | Plataforma EdTech de Teclado Online | 🟡 MVP — Pronto p/ Lançamento |
+| **Horizons Template** | Boilerplate React+Vite Enterprise | 🟢 Template Ativo |
+| **Método Torre** | Plataforma SaaS de Treinamento Corporativo | 🔵 MVP Avançado |
+| **O Pequeno Will** | Projeto Transmídia Infantil | 🟢 Em Produção Ativa |
+| **Marcenaria Online** | E-commerce SaaS de Móveis Sob Medida | 🟡 Prototipagem Avançada |
+| **Rabisco e o Museu Mágico** | Game 2D com Engine Própria em JS puro | 🔵 Alpha Jogável |
+| **Uno Mas Vinho & Cia** | E-commerce de Vinhos Premium | 🟢 Em Produção |
+| **Easy Locker** | Smart Lockers via WhatsApp/SMS (SaaS) | 🟢 Em Produção |
+| **WG.build tech** | Site Agência + Agente de Propostas Automáticas | 🟢 Em Produção |
+| **William Almeida HUB** | Portal Digital Pessoal | 🟢 Em Produção |
+| **Portfolio Kauã Gabriel** | Portfolio Multimídia Profissional | ✅ Compilado |
+| **Documentação Raissa Schuh** | Pacote Franquia Blanc Salvador | ✅ Em Uso Ativo |
 
 ---
 
@@ -60,44 +86,32 @@ Com 14 anos de experiência real em gestão empresarial, construção civil e te
 | Competência | Prova |
 |---|---|
 | Web Performance Engineering | Lighthouse 99/100 desktop |
-| Core Web Vitals (LCP, CLS, TBT) | LCP 0.8s · TBT 10ms · CLS 0.047 |
+| Core Web Vitals | LCP 0.8s · TBT 10ms · CLS 0.047 |
 | SEO Técnico | 100/100 desktop e mobile |
 | Acessibilidade (WCAG) | 92/96 nos dois dispositivos |
-| Responsive / Mobile-First | Diferença de só 9pts desktop→mobile |
-| SSR/SSG com Next.js | FCP 0.4s só é possível com server-side |
-| Prompt Engineering (Avançado) | Sistemas multi-modo em produção |
-| AI-Augmented Development | CRM/ERP completo entregue com IA |
+| SSR/SSG com Next.js | FCP 0.4s — só possível com server-side |
+| AI Workflow Design | ERP completo + agente de propostas em produção |
 | TypeScript / React | Codebase de escala empresarial |
 | Supabase / PostgreSQL | Auth, Storage, Realtime, 12 anos de dados |
-
----
-
-## Projetos em Destaque
-
-### WGeasy — CRM/ERP Completo
-Sistema de gestão empresarial desenvolvido com AI-augmented development. Gerencia R$ 10M+ em operações com 285+ clientes ativos. Stack: React 18, TypeScript, Supabase.
-
-### wgalmeida.com.br — Site de Alta Performance
-Site institucional com score 99/100 no Google Lighthouse. FCP 0.4s, LCP 0.8s, SEO 100/100. Stack: Next.js 14, TypeScript, Tailwind CSS, Vercel.
-
-### WG Almeida Platform — Monorepo Multi-Marca
-Arquitetura monorepo com Turborepo para 3 marcas independentes (WG Almeida, Build.Tech, EasyLocker). Sistema de temas dinâmico, captura de leads unificada, deploy por subdomínio.
-
-### Liz — Assistente IA Multimodal
-Engenharia de prompt avançada com 3 modos de operação: pessoal, técnico e comercial. Persona profissional com chaveamento automático de modo por análise de intenção.
+| Game Development | Engine 2D do zero em JS puro |
+| Transmídia | Série infantil elegível Lei Paulo Gustavo |
+| EdTech | Plataforma com teclado virtual e síntese real |
+| E-commerce | 2 lojas em produção + 1 SaaS em prototipagem |
 
 ---
 
 ## Skills para Contato
 
 Se você precisa de:
-- Sistema completo em produção (CRM, ERP, plataforma web)
-- Site de alta performance com SEO e acessibilidade
-- Consultoria de IA aplicada ao seu negócio
-- Treinamento de Prompt Engineering para equipes
 
-→ [LinkedIn](https://linkedin.com/in/almeidawg) | [Site](https://wgalmeida.com.br) | william@wgalmeida.com.br
+- Sistema completo em produção (ERP, CRM, plataforma SaaS)
+- Site de alta performance com SEO e acessibilidade
+- Automação inteligente de processos de negócio
+- E-commerce, EdTech ou plataforma de nicho
+- Consultoria técnica em arquitetura e performance
+
+→ [LinkedIn](https://linkedin.com/in/almeidawg) · [Site](https://wgalmeida.com.br) · william@wgalmeida.com.br · +55 11 98465-0002
 
 ---
 
-*"Eu não programo IA. Eu dirijo IA para entregar produto real em produção — com performance auditada, sistema funcionando e resultado de negócio comprovado."*
+> *"Não programo por diversão — programo para resolver problemas reais de negócio. O resultado é sistema funcionando, performance auditada e cliente satisfeito."*
