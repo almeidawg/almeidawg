@@ -18,6 +18,14 @@ Fundei a **WG.build tech** para transformar essa capacidade em serviço: sistema
 
 ---
 
+## Standards Públicos
+
+Também mantenho um repositório público com padrões reutilizáveis de engenharia, governança Git e templates de operação:
+
+- [public-standards-wg](https://github.com/almeidawg/public-standards-wg) — templates de `AGENTS.md`, política de visibilidade Git, checklist de publicação e base sanitizada para novos projetos.
+
+---
+
 ## Resultados Auditados
 
 ### Site Institucional — wgalmeida.com.br
